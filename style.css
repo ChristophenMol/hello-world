@@ -16,16 +16,16 @@ h1 {
     gap: 10px;
     justify-content: 10px;
 }
-#a {
+#A {
     grid-area: 1 / 1 / span 1/ span 2;
 }
 
-#b {
+#B {
     grid-area: 2 / 1 / span 1/ span 1;
 }
-#c {
+#C {
     grid-area: 2 / 2 / span 1/ span 1;
 }
-#d {
+#D {
     grid-area: 3 / 1 / span 1/ span 2;
 }
